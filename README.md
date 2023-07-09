@@ -1,2 +1,2 @@
 # server.py
-Chat Room Server
+Chat Room
